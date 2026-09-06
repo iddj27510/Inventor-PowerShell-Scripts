@@ -1,0 +1,8 @@
+=== PS-02_BatchFileHealthCheck.ps1 ===
+Description: Checks health of Inventor files in a folder
+
+Test Commands:
+.\PS-02_BatchFileHealthCheck.ps1
+.\PS-02_BatchFileHealthCheck.ps1 -Verbose
+
+Requirements: PowerShell 5.1+, Windows 10/11

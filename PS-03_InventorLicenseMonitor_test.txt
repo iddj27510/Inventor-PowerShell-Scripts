@@ -1,0 +1,8 @@
+=== PS-03_InventorLicenseMonitor.ps1 ===
+Description: Monitors Inventor license usage via lmstat
+
+Test Commands:
+.\PS-03_InventorLicenseMonitor.ps1
+.\PS-03_InventorLicenseMonitor.ps1 -Verbose
+
+Requirements: PowerShell 5.1+, Windows 10/11

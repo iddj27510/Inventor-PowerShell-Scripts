@@ -1,0 +1,8 @@
+=== PS-05_GitHubRepositoryCreator.ps1 ===
+Description: Creates GitHub repositories for Inventor add-ins
+
+Test Commands:
+.\PS-05_GitHubRepositoryCreator.ps1
+.\PS-05_GitHubRepositoryCreator.ps1 -Verbose
+
+Requirements: PowerShell 5.1+, Windows 10/11
