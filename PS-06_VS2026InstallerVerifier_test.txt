@@ -1,8 +1,0 @@
-=== PS-06_VS2026InstallerVerifier.ps1 ===
-Description: Verifies Visual Studio 2026 installation and components
-
-Test Commands:
-.\PS-06_VS2026InstallerVerifier.ps1
-.\PS-06_VS2026InstallerVerifier.ps1 -Verbose
-
-Requirements: PowerShell 5.1+, Windows 10/11

@@ -1,8 +1,0 @@
-=== PS-01_InventorInstallerVerifier.ps1 ===
-Description: Verifies Inventor installation and required paths
-
-Test Commands:
-.\PS-01_InventorInstallerVerifier.ps1
-.\PS-01_InventorInstallerVerifier.ps1 -Verbose
-
-Requirements: PowerShell 5.1+, Windows 10/11

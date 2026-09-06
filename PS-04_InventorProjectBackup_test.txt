@@ -1,8 +1,0 @@
-=== PS-04_InventorProjectBackup.ps1 ===
-Description: Creates a backup of an Inventor project folder
-
-Test Commands:
-.\PS-04_InventorProjectBackup.ps1
-.\PS-04_InventorProjectBackup.ps1 -Verbose
-
-Requirements: PowerShell 5.1+, Windows 10/11
